@@ -1,4 +1,4 @@
-print('input angka : ',end ="")
+print('input angka (input number) : ',end ="")
 y = int(input())
 
 
